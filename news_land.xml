@@ -5,7 +5,7 @@
         <item>
             <title>버터마을에 오신 것을 환영합니다!</title>
                 <content:encoded>
-                    <![CDATA[<p>테스트 뉴스</p>]]>
+                    <![CDATA[<p>테스트 뉴스</p>
                 </content:encoded>
                 <dc:creator>마을 이장</dc:creator>
                 <pubDate>19 March 2024 20:02:02</pubDate>
