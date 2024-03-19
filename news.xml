@@ -5,11 +5,10 @@
         <item>
             <title>버터마을에 오신 것을 환영합니다!</title>
                 <content:encoded>
-                    <![CDATA[ <p>If you're watching this, you're using the demo distribution file.</p> ]]>
+                    <![CDATA[ <p>테스트 뉴스</p> ]]>
                 </content:encoded>
                 <dc:creator>GeekCorner</dc:creator>
-                <pubDate>11 March 2023 03:49:01</pubDate>
-                <slash:comments>2023</slash:comments>
+                <pubDate>19 March 2024 20:02:02</pubDate>
         </item>
     </channel>
 </rss>
