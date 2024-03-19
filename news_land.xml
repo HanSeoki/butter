@@ -1,9 +1,9 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" version="2.0">
     <channel>
         <title>Helios Launcher demo</title>
+        <link>https://github.com/dscalzi/helioslauncher</link>
         <item>
             <title>버터마을에 오신 것을 환영합니다!</title>
-            <link>https://github.com/dscalzi/helioslauncher</link>
                 <content:encoded>
                     <![CDATA[ <p>테스트 뉴스</p> ]]>
                 </content:encoded>
