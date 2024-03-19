@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "rss": "https://raw.githubusercontent.com/HanSeoki/butter/main/news.xml",
+  "rss": "https://raw.githubusercontent.com/HanSeoki/butter/main/news_land.xml",
   "discord": {
     "clientId": "1086936373057040395",
     "smallImageText": "Change me through Nebula",
