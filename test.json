@@ -12,7 +12,7 @@
       "name": "버터마을",
       "description": "Running Minecraft 1.20 (Forge v46.0.2)",
       "icon": "https://helios-files.geekcorner.eu.org/servers/Demo-1.20/Demo-1.20.png",
-      "version": "1.0.0",
+      "version": "0.0.1",
       "address": "localhost:25565",
       "minecraftVersion": "1.20",
       "discord": {
