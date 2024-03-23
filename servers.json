@@ -21,7 +21,7 @@
         "largeImageKey": "c"
       },
       "mainServer": true,
-      "autoconnect": treu,
+      "autoconnect": true,
       "modules": [
         {
           "id": "net.fabricmc:fabric-loader:0.15.6",
