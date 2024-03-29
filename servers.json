@@ -154,7 +154,7 @@
         },
         {
           "id": "me.jellysquid.mods:Minimap:24.0.3@jar",
-          "name": "Sodium",
+          "name": "MiniMap",
           "type": "FabricMod",
           "artifact": {
             "size": 1450377,
