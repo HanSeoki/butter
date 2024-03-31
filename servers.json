@@ -153,13 +153,13 @@
           }
         },
         {
-          "id": "generated.library:fabric:api-0.43.1+1.18@jar",
+          "id": "generated.library:fabric:api-0.96.11+1.20.4@jar",
           "name": "fabric",
           "type": "Library",
           "artifact": {
             "size": 2160959,
-            "url": "https://raw.githubusercontent.com/HanSeoki/butter/main/fabric-api-0.43.1+1.18.jar",
-            "MD5": "512ffe3918669e32c33b26fad281883e"
+            "url": "https://raw.githubusercontent.com/HanSeoki/butter/main/fabric-api-0.96.11+1.20.4.jar",
+            "MD5": "e16ba73c962937a8a11515ecfd47d163"
           }
         }
       ]
