@@ -8,7 +8,7 @@
       "description": "Fabric-Demo Running Minecraft 1.20.4 (Fabric v0.15.6)",
       "icon": "https://github.com/HanSeoki/butter/blob/main/butter_icon.png?raw=true",
       "version": "1.0.0",
-      "address": "122.32.84.96:25565",
+      "address": "버터마을.kro.kr",
       "minecraftVersion": "1.20.4",
       "discord": {
         "shortId": "Minecraft 1.20.4",
@@ -153,12 +153,12 @@
           }
         },
         {
-          "id": "generated.library:fabric:api-0.96.11+1.20.4@jar",
+          "id": "generated.library:fabric:api-0.97.2+1.20.4@jar",
           "name": "fabric",
           "type": "Library",
           "artifact": {
-            "size": 2160959,
-            "url": "https://raw.githubusercontent.com/HanSeoki/butter/main/fabric-api-0.96.11+1.20.4.jar",
+            "size": 2187420,
+            "url": "https://raw.githubusercontent.com/HanSeoki/butter/main/fabric-api-0.97.2+1.20.4.jar",
             "MD5": "e16ba73c962937a8a11515ecfd47d163"
           }
         },
@@ -169,7 +169,7 @@
           "artifact": {
             "size": 8141022,
             "url": "https://raw.githubusercontent.com/HanSeoki/butter/main/voicechat-fabric-1.20.4-2.5.21.jar",
-            "MD5": "43ec605e7fe9609a3ffdfb1c61e74dc2"
+            "MD5": "2733c159c2f7628983a96b442ca3f823"
           }
         }
       ]
