@@ -3,12 +3,12 @@
         <title>Helios Launcher demo</title>
         <link>https://github.com/dscalzi/helioslauncher</link>
         <item>
-            <title>버터마을에 오신 것을 환영합니다!</title>
+            <title>요뚜기월드에 오신 것을 환영합니다!</title>
                 <content:encoded>
-                    공지사항 테스트
+                    현재 런처는 베타테스트 버전입니다.
                 </content:encoded>
-                <dc:creator>마을 이장</dc:creator>
-                <pubDate>19 March 2024 20:02:02</pubDate>
+                <dc:creator>관리자</dc:creator>
+                <pubDate>18 October 2024 12:30:02</pubDate>
         </item>
     </channel>
 </rss>
